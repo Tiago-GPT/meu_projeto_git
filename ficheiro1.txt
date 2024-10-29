@@ -3,3 +3,9 @@ Este é o exemplo de um ficheiro de texto...
 Estou a fazer alterações ao ficheiro
 
 Alteração para ver o ex8 c)
+
+ALTERAÇÕES EFETUADOS NO BRANCH "NOVAFEATURE"
+
+ALTERAÇÕES NOVAFEATURE
+
+ALTERAÇÃO EM MASTER
