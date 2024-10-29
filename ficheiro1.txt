@@ -5,3 +5,5 @@ Estou a fazer alterações ao ficheiro
 Alteração para ver o ex8 c)
 
 ALTERAÇÕES EFETUADOS NO BRANCH "NOVAFEATURE"
+
+ALTERAÇÃO EM MASTER
